@@ -5,8 +5,8 @@ import {ROUTER_DIRECTIVES, Router} from "angular2/router";
 declare const FB:any;
 
 @Component({
-    selector: 'cp-facebook-login',
-    templateUrl: 'app/careerplot/app/auth/views/facebooklogin.html',
+    selector: 'facebook-login',
+    templateUrl: 'facebooklogin.html',
     directives: [ROUTER_DIRECTIVES]
 })
 

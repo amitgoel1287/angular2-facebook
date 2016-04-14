@@ -17,7 +17,7 @@ As there is no good angular2 component available for same, I struggled a bit sea
 ##Steps for integration: 
 1. Copy the 'facebooklogin.component.ts' file in your components directory of your project.
 2. Copy the 'facebooklogin.html' in the place where you keep htmls. In case, you are not using templateUrl but using template in your component , then copy the HTML code in template 
-3. copy <cp-facebook-login></cp-facebook-login> HTML tag in the place you want to show the facebook login button.
+3. copy <facebook-login></facebook-login> HTML tag in the place you want to show the facebook login button.
 
 It should work as it is. If you face errors, let me know or fork it and improve it. I have created this only for my project use, but will be happy to fix any issue if i find time.
  
