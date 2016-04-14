@@ -4,10 +4,10 @@ As there is no good angular2 component available for same, I struggled a bit sea
 
 ##Pre-requisities:
 1. I have used bootstrap css and bootstrap-social css library for the HTML button. include the following lines in your index.html code
-
+<code>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.12.0/bootstrap-social.min.css" rel="stylesheet">
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-
+</code>
 2. For facebook, I have used facebook javascript SDK. just add the following line in your index.html
 
 <script src="//connect.facebook.net/en_US/sdk.js"></script>
